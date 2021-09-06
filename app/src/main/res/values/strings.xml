@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">County Information</string>
+    <string name="native_name">Native Name</string>
+    <string name="alpha3Code">Alpha3Code</string>
+    <string name="region">Region</string>
+    <string name="subRegion">SubRegion</string>
+    <string name="nativeLanguage">NativeLanguage</string>
+    <string name="currencyName">CurrencyName</string>
+    <string name="currencySymbol">CurrencySymbol</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="capital_name">Capital</string>
+    <string name="population">Population</string>
+    <string name="callingCodes">CallingCodes</string>
+    <string name="timezones">Timezones</string>
+    <string name="english">English</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
